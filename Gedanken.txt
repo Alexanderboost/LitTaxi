@@ -1,0 +1,19 @@
+Zone, Name , Klasse speichern   --- Check
+in Fenster anzeigen wer online ist  ( Zone Name etc)
+
+<Frame name="LitTaxiFrame">
+  <Anchors>
+    <Anchor point="CENTER"/>
+  </Anchors>
+  <Frames>
+    <Button name="LitTaxiButton">
+      <Anchors>
+        <Anchor point="CENTER"/>
+      </Anchors>
+    </Button>
+  </Frames>
+</Frame>
+
+
+
+(Write to Google Sheets)
